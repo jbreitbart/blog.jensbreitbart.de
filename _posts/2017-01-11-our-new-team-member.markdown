@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Our new Team Member"
-date:   2017-01-11 14:05:00
-categories: LifeIsASeriesPfShortStories
+date:   2017-01-30 14:05:00
+categories: LifeIsASeriesOfShortStories
 tags:
+- story
+- future
 image: /assets/article_images/2017-01-11-our-new-team-member/DeathtoStock_TheCollaborative-3.jpg
 image2: /assets/article_images/2017-01-11-our-new-team-member/DeathtoStock_TheCollaborative-3.jpg
 ---
