@@ -23,6 +23,9 @@
               on
               <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
               <span class="post-tags-set">
+                  {% for tag in page.categories %}
+                  <span class="post-tag-{{tag}}">#{{tag | capitalize}}</span>
+                  {% endfor %}
                   {% for tag in page.tags %}
                   <span class="post-tag-{{tag}}">#{{tag | capitalize}}</span>
                   {% endfor %}
@@ -43,6 +46,9 @@
               on
               <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
               <span class="post-tags-set">
+                  {% for tag in page.categories %}
+                  <span class="post-tag-{{tag}}">#{{tag | capitalize}}</span>
+                  {% endfor %}
                   {% for tag in page.tags %}
                   <span class="post-tag-{{tag}}">#{{tag | capitalize}}</span>
                   {% endfor %}
