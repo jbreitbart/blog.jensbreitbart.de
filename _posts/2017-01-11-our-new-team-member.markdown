@@ -20,6 +20,3 @@ Today is the day for the new team member to take over the work of the old one. F
 Boy is that dull. Everything is working just as it should be and I am watching the new one as he is doing his job. Flawlessly. Error rate is expected to be at less than 0.00001% and the latest software is supposed to detect high risks scenarios so that catastrophic errors like the one that left Jon’s life in ruin will never happen again.  My job is merely a singularity by law, but I guess it is better than no job. I am an independent contractor with just one company using my service. I am liable for everything my team does, yet their sheer speed makes it impossible for me to interfere. But everyone should have a job.
 
 „He“. I wonder why they requested us to not just call them what they are: robots. Use „it“.  And how they managed to make me use it even when nobody is listening.
-
-#### Coments
-Coments are only possible via pull requests on [Github](https://github.com/jbreitbart/blog.jensbreitbart.de).

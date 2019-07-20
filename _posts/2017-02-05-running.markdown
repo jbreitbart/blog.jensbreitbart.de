@@ -12,6 +12,3 @@ excerpt_separator: <!--more-->
 Here I am. Running. Sweating. Concentrating on my step rate. I am sure it can be optimized further. I hear my heart rate increasing. I can feel my blood circulating. I must make it. I can’t let go. I hear the crowd. I hear the whistle. I must be quick. I jumped. I got the train.
 
 School sport really paid off today.
-
-#### Coments
-Coments are only possible via pull requests on [Github](https://github.com/jbreitbart/blog.jensbreitbart.de).
