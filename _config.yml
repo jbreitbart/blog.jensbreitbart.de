@@ -1,5 +1,5 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
 
@@ -19,7 +19,7 @@ name: 'Jens Breitbart'
 author: 'Jens Breitbart'
 author_image: "/assets/images/author.png"
 
-paginate:	5
+paginate: 5
 
 url: "https://blog.jensbreitbart.de" # the base hostname & protocol for your site
 baseurl: ""
